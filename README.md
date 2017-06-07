@@ -2,36 +2,36 @@
 
 ## Lifting Machine Code to LLVM IR with a Focus on Readability
 
-    focus: binary analysis, define metric for readability
+*focus*: binary analysis, define metric for readability
 
 ## Evaluation of Methods for Effective Control Flow Recovery
 
-    focus: control flow analysis, define metric for effective control flow recovery
+*focus*: control flow analysis, define metric for effective control flow recovery
 
 ## Type Recovery using Constraint Solvers
 
-    focus: type analysis, constraint programming
+*focus*: type analysis, constraint programming
 
 ## Expression Recovery from Static Single Assignment Form using Data Flow Analysis
 
-    focus: data flow analysis
+*focus*: data flow analysis
 
 ## Evaluation of Methods for Symbolic Execution of LLVM IR
 
-    focus: static execution
+*focus*: static execution
 
 ## Profile Guided Fuzzing of LLVM IR
 
-    focus: code coverage aware fuzzing, automated LLVM IR generation from BNF grammar
+*focus*: code coverage aware fuzzing, automated LLVM IR generation from BNF grammar
 
 ## A BNF Grammar for LLVM IR
 
-    focus: BNF grammar
+*focus*: BNF grammar
 
 ## 2-dimensional Constraint Discovery in Procedurally Generated Maps
 
-    focus: constraint inference/learning/discovery
+*focus*: constraint inference/learning/discovery
 
 ## Enforcing the Principle of Least Privilege with Capabilities Aware Compilation
 
-    focus: integration of capabilities
+*focus*: integration of capabilities
