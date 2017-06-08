@@ -6,7 +6,7 @@
 
 ## Evaluation of Methods for Effective Control Flow Recovery
 
-[Project Initiation Document](control_flow_analysis/PID_effective_control_flow_recovery.pdf)
+[Project Initiation Document](https://github.com/mewmew/playful_thought/raw/master/control_flow_analysis/PID_effective_control_flow_recovery.pdf)
 
 *focus*: control flow analysis, define metric for effective control flow recovery
 
