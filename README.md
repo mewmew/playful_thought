@@ -6,6 +6,8 @@
 
 ## Evaluation of Methods for Effective Control Flow Recovery
 
+[Project Initiation Document](control_flow_analysis/PID_effective_control_flow_recovery.pdf)
+
 *focus*: control flow analysis, define metric for effective control flow recovery
 
 ## Type Recovery using Constraint Solvers
@@ -18,7 +20,7 @@
 
 ## Evaluation of Methods for Symbolic Execution of LLVM IR
 
-*focus*: static execution
+*focus*: symbolic execution
 
 ## Profile Guided Fuzzing of LLVM IR
 
@@ -34,4 +36,4 @@
 
 ## Enforcing the Principle of Least Privilege with Capabilities Aware Compilation
 
-*focus*: integration of capabilities
+*focus*: capabilities aware compilation
