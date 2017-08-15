@@ -4,12 +4,6 @@
 
 *focus*: binary analysis, define metric for readability
 
-## Evaluation of Methods for Effective Control Flow Recovery
-
-[Project Initiation Document](https://github.com/mewmew/playful_thought/raw/master/control_flow_analysis/PID_effective_control_flow_recovery.pdf)
-
-*focus*: control flow analysis, define metric for effective control flow recovery
-
 ## Type Recovery using Constraint Solvers
 
 *focus*: type analysis, constraint programming
