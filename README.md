@@ -31,3 +31,7 @@
 ## Enforcing the Principle of Least Privilege with Capabilities Aware Compilation
 
 *focus*: capabilities aware compilation
+
+## Retroactively Adding Debug Information to Executables
+
+*focus*: debug information injection
